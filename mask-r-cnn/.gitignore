@@ -1,0 +1,6 @@
+checkpoints
+dataset
+
+*/__pycache__/*
+
+accuracies/test/*
